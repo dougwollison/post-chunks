@@ -14,7 +14,7 @@ Text Domain: postchunks
 /**
  * Utility for splitting the content into chunks.
  *
- * @since 1.1.0
+ * @since 1.0.0
  *
  * @param string $content   The content to split.
  * @param string $separator The separator to split at.
